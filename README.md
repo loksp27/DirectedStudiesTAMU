@@ -1,0 +1,2 @@
+# DirectedStudiesTAMU
+Logistic Prediction model
