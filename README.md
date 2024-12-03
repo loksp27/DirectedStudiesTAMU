@@ -7,3 +7,4 @@ The visualization of data show yow different visualization representation to get
 
 Implemtation code has three different models: Logestic, Gompertz and Richards.
 
+Code file named MSE without normalization had better use because the numbers are better represented and interpreted. Final ALL models MSE with normalization is an experiment for checking the impact of normalization. It was later found to have no impact.
